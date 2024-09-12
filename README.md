@@ -1,6 +1,6 @@
 # Challenge 2 - Kirby Land
 
-For this challenge we created, four different Kirby's along with their own Kirby Land for them to live on!
+For this challenge, we created four different Kirby's along with their own Kirby Land for them to live on!
 
 ---
 
