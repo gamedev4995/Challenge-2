@@ -4,7 +4,7 @@ For this challenge, we created four different Kirby's along with their own Kirby
 
 ---
 
-## Kirby Variants:
+## Kirby _!_
 
 ### Original Kirby - (aqui va el body original de kirby)
 
@@ -26,11 +26,14 @@ Due to the lengthy project, we decided to divided our kirby's and their land int
 
 ---
 
-## Kirby Memories!
+## Kirby Memories _!_
+The first time I ever saw Kirby was early 2000’s when the game ‘Kirby Air Ride’ came out for the Nintendo console ‘GameCube’. My brother and I would always visit our grandmother’s house after school and played together all day until our parent’s picked us up(or until I got tired of losing). I’m not sure how I even came by it, my parents probably bought the game as a gift seeing the cute character on the cover. It wasn’t my favorite game at the time, but I really liked Kirby due to how adorable he was and eventually became my go to character in future games when he was featured. Until this day, I still appreciate Kirby, it became a huge part of my childhood to me as well as my brother’s, and even if we don’t play Kirby related games anymore, I know we will forever cherish our memories of the character and the joy it brought us back then.
+> Amanda C Rivera Santos
 
 
 ## Experienced Gained:
-
+Thanks to this project, I managed to think outside the box, looking for different, creative ways on how to implement our kirby’s with the limited shapes we’ve learned so far. It was definitely a challenge but one I truly enjoyed and had fun making. Through trial and error, along with patience, our kirby's made it through as well as the land! This challenge helped me in understanding the view and complexity of things, like how to properly proportion kirby's hands and feet to his body, making it correctly scaled and positined accordingly as well as the details of how the shapes overlap with each other to create new better objects. The detailing with the terrain truly helped as well to better understand how to seamlessly create a world aiming for accuracy and realism. Overall, this project helped me enhance and further better my skills in Unity as well allow me a creative output for it which I thoroughly enjoyed.
+> Amanda C Rivera Santos
 
 
 
