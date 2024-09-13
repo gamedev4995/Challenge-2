@@ -1,21 +1,21 @@
 ### Sleeping Kirby 
 
-For the Sleeping Kirby variant, we are going to create a hat, kirby’s hands and feet and a few bubbles to simulate he’s sleeping. First we start off by double clicking the prefab variant, this will open up a new view with a blue background, meaning we’re inside the prefab variant. Since we’re making a sleeping kirby, we will take each eye and adjust the x-scale to your liking until it forms a straight line to simulate his eyes are closed. We also rotated each eye a bit to the sides to achieve a tired/sleepy look for him. 
+For the Sleeping Kirby variant, we are going to create a hat, Kirby’s hands and feet and a few bubbles to simulate he’s sleeping. First we start off by double clicking the prefab variant, this will open up a new view with a blue background, meaning we’re inside the prefab variant. Since we’re making a sleeping Kirby, we will take each eye and adjust the x-scale to your liking until it forms a straight line to simulate his eyes are closed. We also rotated each eye a bit to the sides to achieve a tired/sleepy look for him. 
 
 <img width="342" alt="Screenshot 2024-09-12 at 12 34 34 PM" src="https://github.com/user-attachments/assets/383cae4d-5054-4503-8add-f06e1402355d">
 
 #### Hat  
-For the hat we are going to use 3 spheres, two for the beanie and one for the beanie puff. To create the base of the beanie we adjusted the sphere to be flat yet thick, a little bigger than kirby’s head as well. We positioned the object on top of kirby’s head and rotated it slightly; it’ll overlap with his head but the rest of the hat will cover it.
+For the hat we are going to use three spheres, two for the beanie and one for the beanie puff. To create the base of the beanie we adjusted the sphere to be flat yet thick, a little bigger than kirby’s head as well. We positioned the object on top of Kirby’s head and rotated it slightly; it’ll overlap with his head but the rest of the hat will cover it.
 
 <img width="382" alt="Screenshot 2024-09-12 at 12 39 24 PM" src="https://github.com/user-attachments/assets/0a832359-0d00-497e-acb0-6d2f2dd4b8bc">
 
 
-For the top of the beanie, we used a  second sphere and scaled it big enough to be the top of the hat. We positioned it to be at the center of our first sphere and moved it downwards so it overlaps and create a dome effect for the completion of the hat. 
+For the top of the beanie, we used a second sphere and scaled it big enough to be the top of the hat. We positioned it to be at the center of our first sphere and moved it downwards so it overlaps and create a dome effect for the completion of the hat. 
 
 <img width="300" alt="Screenshot 2024-09-12 at 12 39 39 PM" src="https://github.com/user-attachments/assets/893c3288-62d9-4340-ac46-6ce5274522bb">
 
 
-For the last touch, we’re adding a small puff ball to complete the beanie. We took our third and final sphere and scaled it small to act as the puff on the end of a sleeping beanie. Finally we positioned it at the back and top of the hat.
+For the last touch, we’re adding a small puff ball to complete the beanie. We took our third and final sphere and scaled it small to act as the puff on the end of a sleeping beanie. Finally, we positioned it at the back and top of the hat.
 
 <img width="368" alt="Screenshot 2024-09-12 at 12 39 45 PM" src="https://github.com/user-attachments/assets/36ea29c5-ac91-49af-88c1-8afb2ba45622">
 
@@ -23,7 +23,7 @@ For the last touch, we’re adding a small puff ball to complete the beanie. We 
 #### Hands & Feet
 
 
-For kirby’s hands and feet, we took four capsules to act as each limb. For his hands, the first capsule was enlarged and scaled to the proportions of his body as well as overlapped with to get the arm in effect. We used rotation to tilt the capsule slightly to get the arm to be pointing downwards.
+For Kirby’s hands and feet, we took four capsules to act as each limb. For his hands, the first capsule was enlarged and scaled to the proportions of his body as well as overlapped with to get the arm in effect. We used rotation to tilt the capsule slightly to get the arm to be pointing downwards.
 
 <img width="343" alt="Screenshot 2024-09-12 at 5 37 57 PM" src="https://github.com/user-attachments/assets/602b2ed0-a2a9-4e47-bb83-90d11e838f42">
 
@@ -33,7 +33,7 @@ For the second arm, we simply duplicate the already done capsule and positioned 
 <img width="366" alt="Screenshot 2024-09-12 at 5 38 02 PM" src="https://github.com/user-attachments/assets/7cb2753a-e07a-47b7-b479-63b36ef3408b">
 
 
-For kirby’s feet, we used two more capsules, this time we flattened them using the z-axis in scale to act as feet instead of the round shape like the arms. After, we simply positioned it using the x and y axis to go under his body at the back as if he were laying down.
+For Kirby’s feet, we used two more capsules, this time we flattened them using the z-axis in scale to act as feet instead of the round shape like the arms. After, we simply positioned it using the x and y axis to go under his body at the back as if he were laying down.
 
 <img width="366" alt="Screenshot 2024-09-12 at 5 38 28 PM" src="https://github.com/user-attachments/assets/b95b3ec0-56b5-495f-bc91-a11720ebf241">
 
@@ -54,5 +54,6 @@ For the last two bubbles(spheres), we positioned them across each other with the
 
 
 ## Result:
+
 <img width="462" alt="Screenshot 2024-09-12 at 10 32 14 PM" src="https://github.com/user-attachments/assets/2bd608f1-bfe7-4c31-9211-cc60357deee5">
 
