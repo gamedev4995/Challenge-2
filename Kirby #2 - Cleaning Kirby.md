@@ -20,7 +20,7 @@ After having the design of the broom made, we positioned it alongside the base o
 <img width="400" alt="Screenshot 2024-09-11 143814" src="https://github.com/user-attachments/assets/8ec8d156-9e9a-4e68-9114-4a8e72d5a667">
 
 ### Hands:
-By having the broom in place, we were able to proceed with creating Kirby’s arms. Starting off with the right hand, we took another capsule, rotated it to a 90-degree angle and scaled it down a bit. We then positioned it to the side of Kirby, slightly below the eyes and angled it to our preference where the backend of the capsule is inside Kirby’s body and made sure that the frontend made contact with the broom stick. This way it looks as if Kirby is holding the broom.
+By having the broom in place, we were able to proceed with creating Kirby’s arms. Starting off with the right hand, we took another capsule, rotated it to a 90-degree angle and scaled it down a bit. We then positioned it to the side of Kirby, slightly below the eyes and angled it to our preference. We made sure that the backend of the capsule is inside Kirby’s body and that the frontend made contact with the broom stick. This way it looks as if Kirby is holding the broom.
 
 <img width="400" alt="Screenshot 2024-09-11 144051" src="https://github.com/user-attachments/assets/242a5e12-38c2-4a36-b7bf-e8d624917b2d">
 
