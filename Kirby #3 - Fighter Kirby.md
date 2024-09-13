@@ -29,7 +29,15 @@ Duplicate the first capsule to create right foot that is kicking. Move and rotat
 
 <img width="400" alt="Screenshot 2024-09-12 at 9 14 38 PM" src="https://github.com/user-attachments/assets/7d7fe2f0-1e1e-49cb-a9f0-b27cc0983cee">
 
+### Kirby’s bandana
 
+### Details
+
+  -Eyebrows
+
+  -Star
+
+  
 
 
 
