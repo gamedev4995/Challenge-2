@@ -2,7 +2,7 @@
 
 For the Sleeping Kirby variant, we are going to create a hat, kirby’s hands and feet and a few bubbles to simulate he’s sleeping. First we start off by double clicking the prefab variant, this will open up a new view with a blue background, meaning we’re inside the prefab variant. Since we’re making a sleeping kirby, we will take each eye and adjust the x-scale to your liking until it forms a straight line to simulate his eyes are closed. We also rotated each eye a bit to the sides to achieve a tired/sleepy look for him. 
 
-
+<img width="342" alt="Screenshot 2024-09-12 at 12 34 34 PM" src="https://github.com/user-attachments/assets/383cae4d-5054-4503-8add-f06e1402355d">
 
 #### Hat  
 For the hat we are going to use 3 spheres, two for the beanie and one for the beanie puff. To create the base of the beanie we adjusted the sphere to be flat yet thick, a little bigger than kirby’s head as well. We positioned the object on top of kirby’s head and rotated it slightly; it’ll overlap with his head but the rest of the hat will cover it.
