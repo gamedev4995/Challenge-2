@@ -4,7 +4,7 @@
 ### Broom:
 - Starting off with the broom, we first took a 3D capsule and scaled its size accordingly until we ended up with a long and thin shape resembling a broom stick.
 
-
+<img width="400" alt="Screenshot 2024-09-11 141129" src="https://github.com/user-attachments/assets/879f6cf8-e9c4-49ff-a0dc-be55958f743e">
 
 - For the brush cap that holds the bristles of a broom, we took another capsule, rotated it to a 90-degree angle, shortened the length, and flattened the width. Then we inserted the broom stick in the center as shown in the image below.
 
