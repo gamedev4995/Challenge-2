@@ -33,15 +33,15 @@ The right foot will be a duplicate of our first object to save time. This will b
 
 
 ### Kirby's hat
-Create a sphere object, scale to be almost as big as the body. Attach to the top of Kirby's head leaving more than half the sphere out. 
+Create a sphere object, scale to be almost as big as the body. Attach to the top of Kirby's head leaving more than half of the sphere out. 
 
 <img width="400" alt="Screenshot 2024-09-12 at 10 19 54 PM" src="https://github.com/user-attachments/assets/a6cf530e-e438-43ef-b5d5-ee14e0e7f798">
 
-Create a cylinder object and place inside the sphere layer to create a folder for the hat. The cylinder will be the border of the hat. Flatten and the cylinder and scale. The height should roughly be the same as the eyes and the width should be slightly bigger than the body's width. Place cylinder between the line that connects the base of the hat and the body.
+Create a cylinder object and place inside the sphere layer to create a folder for the hat. The cylinder will be the border of the hat. Flatten the cylinder and scale. The height should roughly be the same as the eyes and the width should be slightly bigger than the body's width. Place cylinder between the line that connects the base of the hat and the body.
 
 <img width="400" alt="Screenshot 2024-09-12 at 10 20 02 PM" src="https://github.com/user-attachments/assets/06903c60-837b-4270-b31e-982c2400fe05">
 
-Now we want to build the shape of the hat. Create a capsule and scale to the shape of a small drum. This shape wil go on top our hat base. Attach so that only less than half of the capsule is sticking out. Rotate to the left so the right edge of of the capsule is looking up and is the only part left sticking out of the hat base. The rest should be concealed.
+Now we want to build the shape of the hat. Create a capsule object and scale to the shape of a small drum. This shape wil go on top of our hat base. Attach so that only less than half of the capsule is sticking out. Rotate to the left so the right edge of of the capsule is looking up and is the only part left sticking out of the hat base. The rest should be concealed.
 
 <img width="400" alt="Screenshot 2024-09-12 at 10 20 13 PM" src="https://github.com/user-attachments/assets/d11420a8-61f1-4af7-be06-1f4916a96419">
 
@@ -65,11 +65,11 @@ Finally create a sphere and place on the last capsule's end.
 
 ### Kirby's sword
 Kirby's sword has a few details and lots of steps so follow along attentively.
-Start by creating a cylinder object which will be the hand of the word. Scale to a smaller thinner rod shape and attach to the middle of Kirby's left hand.
+Start by creating a cylinder object which will be the handle of the word. Scale to a small thin rod shape and attach to the middle of Kirby's left hand.
 
 <img width="400" alt="Screenshot 2024-09-12 at 11 23 32 PM" src="https://github.com/user-attachments/assets/a2519c47-8af0-48b8-9c0d-c71dcee07764">
 
-Create a shorter thicker cylynder to go on top of the handle. This will be where we place the decorative gem.
+Create a shorter thicker cylinder to go on top of the handle. This will be where we place the decorative gem.
 
 <img width="400" alt="Screenshot 2024-09-12 at 11 23 48 PM" src="https://github.com/user-attachments/assets/9b8bb39a-9fdd-404e-b7b5-41de50725df2">
 
@@ -77,11 +77,11 @@ For the decorative gem create a sphere and scale to an flat oval shape that is t
 
 <img width="400" alt="Screenshot 2024-09-12 at 11 23 58 PM" src="https://github.com/user-attachments/assets/489a5e4b-0c71-4180-a0b6-fe3a2561d995">
 
-Now the decorative side bars of the handle. Create a cylinder the scale to the same size as the handle and place vertically through the top cylynder that has the gem attached.
+Now the decorative side bars of the handle. Create a cylinder the scale to the same size as the handle and place vertically through the top cylinder that has the gem attached.
 
 <img width="400" alt="Screenshot 2024-09-12 at 11 31 19 PM" src="https://github.com/user-attachments/assets/cd1894cb-c850-447b-a465-769572363586">
 
-Add two small speheres on both ends.
+Add two small spheres on both ends.
 
 <img width="400" alt="Screenshot 2024-09-12 at 11 31 59 PM" src="https://github.com/user-attachments/assets/9d9a43da-32cc-4176-a331-615b007648e0">
 
@@ -89,7 +89,7 @@ Now for the sword create a cube object and scale to a thin long rectangle. Place
 
 <img width="400" alt="Screenshot 2024-09-12 at 11 32 32 PM" src="https://github.com/user-attachments/assets/fd80a22c-d6f8-49ea-a74e-18482c52464e">
 
-Create two more cubes. Scale into rectangles that are the same thickness as the previos ones but much shorter. Place both rectangles on both ends of the sword and tilt inwards. Note that there will be a dimond shapes gap at the end.
+Create two more cubes. Scale into rectangles that are the same thickness as the previous ones but much shorter. Place both rectangles on both ends of the sword and tilt inwards. Note that there will be a dimond shaped gap at the end.
 
 <img width="400" alt="Screenshot 2024-09-12 at 11 36 07 PM" src="https://github.com/user-attachments/assets/e96de176-8bb4-407f-b6a8-0ea60f2e1454">
 
