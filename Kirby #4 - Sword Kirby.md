@@ -64,5 +64,47 @@ Finally create a sphere and place on the last capsule's end.
 
 
 ### Kirby's sword
+Kirby's sword has a few details and lots of steps so follow along attentively.
+Start by creating a cylinder object which will be the hand of the word. Scale to a smaller thinner rod shape and attach to the middle of Kirby's left hand.
 
+<img width="400" alt="Screenshot 2024-09-12 at 11 23 32 PM" src="https://github.com/user-attachments/assets/a2519c47-8af0-48b8-9c0d-c71dcee07764">
+
+Create a shorter thicker cylynder to go on top of the handle. This will be where we place the decorative gem.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 23 48 PM" src="https://github.com/user-attachments/assets/9b8bb39a-9fdd-404e-b7b5-41de50725df2">
+
+For the decorative gem create a sphere and scale to an flat oval shape that is the height of the second cylinder we placed. Attach on the former cylinder. Duplicate the sphere object we created and scale to a slighlty smaller size. Attack on top of the bigger oval.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 23 58 PM" src="https://github.com/user-attachments/assets/489a5e4b-0c71-4180-a0b6-fe3a2561d995">
+
+Now the decorative side bars of the handle. Create a cylinder the scale to the same size as the handle and place vertically through the top cylynder that has the gem attached.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 31 19 PM" src="https://github.com/user-attachments/assets/cd1894cb-c850-447b-a465-769572363586">
+
+Add two small speheres on both ends.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 31 59 PM" src="https://github.com/user-attachments/assets/9d9a43da-32cc-4176-a331-615b007648e0">
+
+Now for the sword create a cube object and scale to a thin long rectangle. Place on the end of the sword and tilt the cube to the left. Duplicate and tilt the second cube to the right. There will be a gap in the middle (we'll fix it later).
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 32 32 PM" src="https://github.com/user-attachments/assets/fd80a22c-d6f8-49ea-a74e-18482c52464e">
+
+Create two more cubes. Scale into rectangles that are the same thickness as the previos ones but much shorter. Place both rectangles on both ends of the sword and tilt inwards. Note that there will be a dimond shapes gap at the end.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 36 07 PM" src="https://github.com/user-attachments/assets/e96de176-8bb4-407f-b6a8-0ea60f2e1454">
+
+To make the tip of the sword duplicate one of the previously made smaller rectangles. Scale and rotate into a diamond shape. Place into the gap at the end of the sword.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 36 21 PM" src="https://github.com/user-attachments/assets/fc7f21ac-1070-4431-999b-0d5cdfdb9f62">
+
+To finish the sword duplicate one of the long rectangle pieces made and place in the middle to fill in the final gap of the sword.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 36 21 PM" src="https://github.com/user-attachments/assets/6ad90b6d-4647-4051-bf6c-f0935e31ac10">
+
+### Final details
+One of the finishing touches for this Kirby are the angry eyebrows. To make this place a capsule object and scale into a tooth-pick shape. Rotate the shape down and place above and on top of the eye. Duplicate and repeat for other eye.
+
+<img width="400" alt="Screenshot 2024-09-12 at 11 36 48 PM" src="https://github.com/user-attachments/assets/163d7dfc-2f96-4c84-a679-503bf526f2cd">
+
+Done!
 
