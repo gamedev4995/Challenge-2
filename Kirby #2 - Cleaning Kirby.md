@@ -38,7 +38,7 @@ Moving on to Kirby’s feet, we first took a capsule rotated it to a 90-degree a
 
 <img width="300" alt="Screenshot 2024-09-11 151029" src="https://github.com/user-attachments/assets/cdc80247-4cb6-46e0-aab8-9214a500425d">
 
-Then we duplicated the left foot capsule and placed it below Kirby’s body towards the right in a flatter position. This way he is standing on his right foot.
+Then we duplicated the left foot capsule and placed it below Kirby’s body towards the right in a flatter position. This way, he is standing on his right foot.
 
 <img width="300" alt="Screenshot 2024-09-11 151708" src="https://github.com/user-attachments/assets/a3aecda7-4ff1-4276-bfde-f65c391a6674">
 
@@ -46,9 +46,9 @@ Backside:
 
 <img width="300" alt="Screenshot 2024-09-11 154605" src="https://github.com/user-attachments/assets/b89dd25d-cd70-4158-8bd8-d105b789d5f1">
 
-### Headpiece:
+### Bandana:
 
-For the headpiece, we first took another sphere and placed it within the body of the Kirby and adjusted the position where it pops out a bit from the top of his body like the following image.
+For the bandana, we first took another sphere and placed it within the body of the Kirby and adjusted the position where it pops out a bit from the top of his body like the following image.
 
 <img width="300" alt="Screenshot 2024-09-11 155930" src="https://github.com/user-attachments/assets/75571593-7631-4d6a-ae4a-105a7ed7c8fe">
 
@@ -56,7 +56,7 @@ The outline that shows up will then be the outline for the border of the bandana
 
 <img width="300" alt="Screenshot 2024-09-11 155945" src="https://github.com/user-attachments/assets/e1401b2e-d05e-46d2-8d02-5d8ce336f540">
 
-Next came the tied part of the headpiece, where we first took a new capsule and flattened the width, like how it was done prior with the feet. We made sure that the end of the capsule was inserted at the back of the headpiece and that it was long enough to be visible from the front.
+Next came the tied part of the bandana, where we first took a new capsule and flattened the width, like how it was done prior with the feet. We made sure that the end of the capsule was inserted at the back of the bandana and that it was long enough to be visible from the front.
 
 <img width="300" alt="Screenshot 2024-09-11 164350" src="https://github.com/user-attachments/assets/27534c5d-dbb7-407b-8905-7f7f74d5adb3">
 
