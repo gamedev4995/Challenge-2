@@ -20,7 +20,12 @@ For the right hand duplicate the first capsule. This hand will be holding on to 
 <img width="400" alt="Screenshot 2024-09-12 at 9 58 05 PM" src="https://github.com/user-attachments/assets/c6213c02-1048-4940-bd85-2333e444240e">
 
 ### Kirby's feet
-For this variant Kirby will look like he is running. To create the feet we will also use two capsules. For the left foor, this will be the one that is behind the body pushing kirby forward. First place and adjust a capsule object to a larger size flattening slightly.
+For this variant Kirby will look like he is running. To create the feet we will also use two capsules. For the left foot (this will be the one that is behind the body pushing kirby forward), first place and adjust a capsule object to a larger size flattening slightly. Rotate until the pointing downward to the left and attach behind the left arm we first created.
+
+<img width="679" alt="Screenshot 2024-09-12 at 10 08 55 PM" src="https://github.com/user-attachments/assets/9e2fb611-4b7b-4811-9c01-b0653103779d">
+
+The right foot will be a duplicate of our first object to save time. This will be the front foot. Adjust the scale size to be larger than the first to create a more effective look. Move and rotate the cpasule until it is flat and faceing slightly to the right.
+
 
 ### Kirby's hat
 
