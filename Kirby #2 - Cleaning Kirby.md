@@ -44,6 +44,7 @@ Note: Some adjustments were made to the size of the broom to better fit the size
 <img width="400" alt="Screenshot 2024-09-11 151708" src="https://github.com/user-attachments/assets/a3aecda7-4ff1-4276-bfde-f65c391a6674">
 
 Backside:
+
 <img width="400" alt="Screenshot 2024-09-11 154605" src="https://github.com/user-attachments/assets/b89dd25d-cd70-4158-8bd8-d105b789d5f1">
 
 ### Headpiece:
@@ -61,6 +62,7 @@ Backside:
 <img width="400" alt="Screenshot 2024-09-11 164350" src="https://github.com/user-attachments/assets/27534c5d-dbb7-407b-8905-7f7f74d5adb3">
 
 Frontside:
+
 <img width="400" alt="Screenshot 2024-09-11 164509" src="https://github.com/user-attachments/assets/419378a5-da0a-46dc-bc9c-a4f7ec2d3527">
 
 - Then we duplicated the capsule and reflected it.
