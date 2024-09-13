@@ -2,6 +2,7 @@
 To create our Sword Kirby we will need to create hands, feet, a hat, and a sword. We will start with simplest components and finish with the most complex. First, using the rotate tool we are going to tilt our prefab Kirby's body on the z-axis so his body is leaning slightly to the right. 
 
 This will be our base:
+
 <img width="400" alt="Screenshot 2024-09-12 at 9 48 16 PM" src="https://github.com/user-attachments/assets/ae3a1bc7-3dcf-4222-ba20-11e4c88a8096">
 
 ### Kirby's hands
