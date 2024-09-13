@@ -105,7 +105,8 @@ To finish the sword duplicate one of the long rectangle pieces made and place in
 ### Final details
 One of the finishing touches for this Kirby are the angry eyebrows. To make this place a capsule object and scale into a tooth-pick shape. Rotate the shape down and place above and on top of the eye. Duplicate and repeat for other eye.
 
-<img width="400" alt="Screenshot 2024-09-12 at 11 36 48 PM" src="https://github.com/user-attachments/assets/163d7dfc-2f96-4c84-a679-503bf526f2cd">
+<img width="400" alt="Screenshot 2024-09-12 at 11 36 39 PM" src="https://github.com/user-attachments/assets/0885aa36-347b-41fd-8d00-9642ca34fdf9">
+
 
 Done!
 
