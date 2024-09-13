@@ -9,7 +9,7 @@ For this challenge, we created four different Kirby's along with their own Kirby
 ### Original Kirby
 We first decided to make a prefab of Kirby's body to serve as a base model. This prefab consisted of three 3D objects in total, a sphere for the body, and two small capsules embedded in the middle surface of the sphere for the character’s eyes.
 In order to make the prefab, we started off by making the model in the sample scene of Unity:
-1. Game Object > 3D Object > Sphere - We scaled the sphere big enough until satisfied with the size.
+1. Game Object > 3D Object > Sphere - We scaled the sphere to a size we were satisfied with as the body of Kirby.
    
    <img width="300" alt="Screenshot 2024-09-10 180412" src="https://github.com/user-attachments/assets/709304d4-a435-4f48-995a-457e0815cf38">
 
