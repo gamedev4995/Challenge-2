@@ -13,7 +13,7 @@ Then we began shaping the terrain by creating the area of the mountains in the o
 
 This was the result:
 
-<img width="300" alt="Screenshot 2024-09-12 170833" src="https://github.com/user-attachments/assets/381ad7c0-c88a-4da6-957e-6c3aadcae0f1">
+<img width="450" alt="Screenshot 2024-09-12 170833" src="https://github.com/user-attachments/assets/381ad7c0-c88a-4da6-957e-6c3aadcae0f1">
 
 We then went in with brush number 4, with the same size and opacity, to elevate the mountains and make them more pronounced.
 
@@ -21,8 +21,8 @@ We then went in with brush number 4, with the same size and opacity, to elevate 
 
 This was the result:
 
-<img width="300" alt="Screenshot 2024-09-12 171639" src="https://github.com/user-attachments/assets/7505f493-09e7-4a98-8ef9-37fb70d85644">
-![]()
+<img width="450" alt="Screenshot 2024-09-12 171639" src="https://github.com/user-attachments/assets/7505f493-09e7-4a98-8ef9-37fb70d85644">
+
 
 Lastly, we went in with brush number 4 again but this time with a size of 25 and an opacity of 10 to level the plains/river areas of the terrain and remove the flatness it originally had.
 
@@ -30,15 +30,15 @@ Lastly, we went in with brush number 4 again but this time with a size of 25 and
 
 Before:
 
-<img width="300" alt="Screenshot 2024-09-12 172218" src="https://github.com/user-attachments/assets/6f764c6b-4cb1-4b14-b634-aa3b8e4b22bd">
+<img width="450" alt="Screenshot 2024-09-12 172218" src="https://github.com/user-attachments/assets/6f764c6b-4cb1-4b14-b634-aa3b8e4b22bd">
 
 After:
 
-<img width="300" alt="Screenshot 2024-09-12 174610" src="https://github.com/user-attachments/assets/d3fbd9dd-6b0f-4bf5-b992-a7c31f135b4c">
+<img width="450" alt="Screenshot 2024-09-12 174610" src="https://github.com/user-attachments/assets/d3fbd9dd-6b0f-4bf5-b992-a7c31f135b4c">
 
 ## Result:
 
-<img width="300" alt="Screenshot 2024-09-12 180015" src="https://github.com/user-attachments/assets/322b11bb-42cb-43f9-a275-2c2237f7c1a7">
+<img width="450" alt="Screenshot 2024-09-12 180015" src="https://github.com/user-attachments/assets/322b11bb-42cb-43f9-a275-2c2237f7c1a7">
 
 Closeup:
 
