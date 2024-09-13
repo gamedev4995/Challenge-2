@@ -46,17 +46,22 @@ Now we want to build the shape of the hat. Create a capsule and scale to the sha
 <img width="400" alt="Screenshot 2024-09-12 at 10 20 13 PM" src="https://github.com/user-attachments/assets/d11420a8-61f1-4af7-be06-1f4916a96419">
 
 Alternative view:
+
 <img width="400" alt="Screenshot 2024-09-12 at 10 23 04 PM" src="https://github.com/user-attachments/assets/b9d968c0-858a-46e9-b13a-f6a2364f9b8c">
 
 This stepe is a little tricky. These are the exact values used:
+
 <img width="395" alt="Screenshot 2024-09-12 at 10 23 15 PM" src="https://github.com/user-attachments/assets/3fd9dbaa-822a-4082-a96f-1ff7eb61d428">
 
 Next place another capsule object on top. This one will be more pill-shaped but slightly flatter. Rotate until it's mostly on it's side with the left side only slightly tilted up. Attach this to the former capsule that was created.
+
 <img width="400" alt="Screenshot 2024-09-12 at 10 20 31 PM" src="https://github.com/user-attachments/assets/667b87bd-6459-46ed-a308-c1409b061cfd">
 
 
 Finally create a sphere and place on the last capsule's end.
+
 <img width="400" alt="Screenshot 2024-09-12 at 10 20 39 PM" src="https://github.com/user-attachments/assets/b4e8ef94-c831-4cd7-8eef-690b3e1c17e7">
+
 
 ### Kirby's sword
 
