@@ -26,6 +26,7 @@ With the model created, in the "Hierarchy" menu, we dragged each capsule into th
 <img width="250" alt="Screenshot 2024-09-12 222955" src="https://github.com/user-attachments/assets/babcac78-c143-4d20-b63c-2cdcc43c9cda">   
 
 Prefab Mode:
+
 <img width="250" alt="Screenshot 2024-09-10 181720" src="https://github.com/user-attachments/assets/fd9fcc56-84f2-4b2d-82b6-070d11d60b12">   
 
 For easier and quicker development on this project, we created four different prefab variants for our Kirby's. After our original prefab was completed, we used it to make prefab variants from it by right clicking the original kirby prefab > prefab > create > prefab variant. Once in the prefab mode of each variant, it allowed us to easily edit each Kirby since the body was already completed and ready to be used.
