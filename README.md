@@ -28,9 +28,9 @@ Due to the lengthy project, we decided to divided our kirby's and their land int
 
 ## Kirby Memories!
 
----
 
-## Experienced Gained 
+## Experienced Gained:
+
 
 
 
