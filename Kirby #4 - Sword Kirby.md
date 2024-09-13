@@ -95,7 +95,8 @@ Create two more cubes. Scale into rectangles that are the same thickness as the 
 
 To make the tip of the sword duplicate one of the previously made smaller rectangles. Scale and rotate into a diamond shape. Place into the gap at the end of the sword.
 
-<img width="400" alt="Screenshot 2024-09-12 at 11 36 21 PM" src="https://github.com/user-attachments/assets/fc7f21ac-1070-4431-999b-0d5cdfdb9f62">
+<img width="400" alt="Screenshot 2024-09-12 at 11 52 54 PM" src="https://github.com/user-attachments/assets/2b0c8547-1fcc-4bff-9c0b-57a6ce48982d">
+
 
 To finish the sword duplicate one of the long rectangle pieces made and place in the middle to fill in the final gap of the sword.
 
