@@ -14,7 +14,7 @@ we used it to make prefab variants from it by right clicking the original kirby 
 
 Due to the lengthy project, we decided to divided our kirby's and their land into seperate files for easier navigation and access! You can also click each link down below for a quick look:
 
-[Kirby #1 - Sleeping Kirby](https://github.com/gamedev4995/Challenge-2/blob/f7dfaca39466b723bbffc3bdd25043b66f67cd16/Kirby%20%231%20-%20Sleeping%20Kirby)
+[Kirby #1 - Sleeping Kirby](https://github.com/gamedev4995/Challenge-2/blob/4c9728b1a470ca71717015b0f1857a138bea5b6c/Kirby%20%231%20-%20Sleeping%20Kirby.md)
 
 [Kirby #2 - Cleaning Kirby](https://github.com/gamedev4995/Challenge-2/blob/f7dfaca39466b723bbffc3bdd25043b66f67cd16/Kirby%20%232%20-%20Cleaning%20Kirby)
 
