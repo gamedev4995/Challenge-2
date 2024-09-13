@@ -29,9 +29,9 @@ Prefab Mode:
 
 <img width="250" alt="Screenshot 2024-09-10 181720" src="https://github.com/user-attachments/assets/fd9fcc56-84f2-4b2d-82b6-070d11d60b12">   
 
-For easier and quicker development on this project, we created four different prefab variants for our Kirby's. After our original prefab was completed, we used it to make prefab variants from it by right clicking the original kirby prefab > prefab > create > prefab variant. Once in the prefab mode of each variant, it allowed us to easily edit each Kirby since the body was already completed and ready to be used.
+For easier and quicker development on this project, we created four different prefab variants for our Kirby's. After our original prefab was completed, we used it to make prefab variants from it by right clicking the original Kirby prefab > prefab > create > prefab variant. Once in the prefab mode of each variant, it allowed us to easily edit each Kirby since the body was already completed and ready to be used.
 
-Due to the lengthy project, we decided to divided our kirby's and their land into seperate files for easier navigation and access! You can also click each link down below for a quick look:
+Due to the lengthy project, we decided to divided our Kirby's and their land into seperate files for easier navigation and access! You can also click each link down below for a quick look:
 
 [Kirby #1 - Sleeping Kirby](https://github.com/gamedev4995/Challenge-2/blob/4c9728b1a470ca71717015b0f1857a138bea5b6c/Kirby%20%231%20-%20Sleeping%20Kirby.md)
 
