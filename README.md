@@ -37,9 +37,9 @@ Due to the lengthy project, we decided to divided our Kirby's and their land int
 
 [Kirby #2 - Cleaning Kirby](https://github.com/gamedev4995/Challenge-2/blob/4e687922264c0f73d3e6e72b405f72b568e27406/Kirby%20%232%20-%20Cleaning%20Kirby.md)
 
-[Kirby #3 - Fighter Kirby]()
+[Kirby #3 - Fighter Kirby](https://github.com/gamedev4995/Challenge-2/blob/930d47507d1715e0b4dabc6363c9f2440f937950/Kirby%20%233%20-%20Fighter%20Kirby.md)
 
-[Kirby #4 - Sword Kirby]()
+[Kirby #4 - Sword Kirby](https://github.com/gamedev4995/Challenge-2/blob/930d47507d1715e0b4dabc6363c9f2440f937950/Kirby%20%234%20-%20Sword%20Kirby.md)
 
 [Kirby Land - Terrain](https://github.com/gamedev4995/Challenge-2/blob/4e687922264c0f73d3e6e72b405f72b568e27406/Kirby%20Land%20-%20Terrain.md)
 
